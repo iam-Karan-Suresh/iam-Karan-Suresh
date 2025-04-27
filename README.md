@@ -50,7 +50,8 @@
 <h2 align="center">🐍 My GitHub Contributions 🐍</h2>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/karanTheDevX/karanTheDevX/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/karanTheDevX/karanTheDevX/output/github-contribution-grid-snake.svg" />
+
 </div>
 
 ---
