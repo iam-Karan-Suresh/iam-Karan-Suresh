@@ -17,7 +17,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.actor }} # This passes your GitHub username automatically
     
       - name: Commit Snake Image
         uses: EndBug/add-and-commit@v7
