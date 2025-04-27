@@ -40,6 +40,8 @@
 <br/>
 
 <div align="center">
+    ![snake](https://github.com/your-username/your-repository-name/blob/main/github-snake.gif)
+
     <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode" />
 </div>
 
