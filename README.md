@@ -51,6 +51,13 @@
 ## 🐍 Contribution Snake & 👾 Pacman Stats
 
 <div align="center">
+### 💻 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcode.com/u/iam-karan-suresh/?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+---
 
 ### Snake eating my contributions 🐍
 
