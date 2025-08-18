@@ -107,3 +107,7 @@
 <div align="center">
   <h3>🚀 Keep Pushing Boundaries, Keep Building! 🚀</h3>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
