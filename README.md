@@ -48,6 +48,34 @@
 
 
 <h2 align="center">⚡ My GitHub Stats ⚡</h2>
+## 🐍 Contribution Snake & 👾 Pacman Stats
+
+<div align="center">
+
+### Snake eating my contributions 🐍
+
+<img src="https://raw.githubusercontent.com/LShreeChaithanya/LShreeChaithanya/output/snake.svg" alt="Snake animation" />
+
+### Pacman consuming commits! 👾
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LShreeChaithanya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+---
+
 
 <br/>
 
