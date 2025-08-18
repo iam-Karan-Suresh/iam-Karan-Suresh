@@ -71,7 +71,7 @@
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LShreeChaithanya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iam-karan-suresh&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
@@ -80,15 +80,29 @@
 <br/>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=karanTheDevX&theme=react&border_radius=10" alt="Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=karanTheDevX&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=iam-karan-suresh&theme=react&border_radius=10" alt="Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=iam-karan-suresh&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/><br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanTheDevX&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-karan-suresh&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/>
 
 ---
+### 📈 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-karan-suresh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-karan-suresh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iam-karan-suresh&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-karan-suresh&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
 
 <div align="center">
   <h3>🚀 Keep Pushing Boundaries, Keep Building! 🚀</h3>
