@@ -53,7 +53,7 @@
 ### 💻 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcode.com/u/iam-karan-suresh/?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcode.com/u/iam-karan-suresh?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
