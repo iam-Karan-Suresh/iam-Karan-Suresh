@@ -47,8 +47,7 @@
 
 
 
-<h2 align="center">⚡ My GitHub Stats ⚡</h2>
-## 🐍 Contribution Snake & 👾 Pacman Stats
+
 
 <div align="center">
 ### 💻 LeetCode Progress
@@ -58,6 +57,7 @@
 </div>
 
 ---
+<h2 align="center">⚡ My GitHub Stats ⚡</h2>
 
 ### Snake eating my contributions 🐍
 
