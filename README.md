@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=karanTheDevX.karanTheDevX" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iam-karan-suresh" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karan+S!;" />
@@ -7,6 +8,8 @@
 <h3 align="center">A passionate Java Developer, MERN Stack Developer and DevOps Engineer from India 🇮🇳</h3>
 
 <br/>
+
+![Working on Golang]![heavylifting](https://github.com/user-attachments/assets/067396ff-4782-42ec-9412-490c4eb2265f)
 
 <div align="center">
  
